@@ -3,7 +3,7 @@
 A modern, full-stack real-time chat application built with **React**, **Vite**, **Tailwind CSS**, **DaisyUI**, **Node.js**, **Express**, **MongoDB**, and **Socket.io**.  
 Seamlessly chat, share images, and connect with friends in a beautiful, themeable interface.
 
-![Screenshot](frontend/public/screenshot-for-readme.png)
+![Screenshot](frontend/ui.png)
 
 ---
 
@@ -143,7 +143,7 @@ NODE_ENV=development
 
 | Chat UI | Theme Switcher | Profile |
 |---------|----------------|---------|
-| ![Chat](frontend/public/screenshot-for-readme.png) | ![Theme](frontend/public/avatar.png) | ![Profile](frontend/public/avatar.png) |
+| ![Chat](frontend/ui.png) | ![Theme](frontend/theme.png) | ![Profile](frontend/profile.png) |
 
 ---
 
