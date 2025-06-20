@@ -44,7 +44,9 @@ Seamlessly chat, share images, and connect with friends in a beautiful, themeabl
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 
 ---
+## 🚀 Demo
 
+[**Live Demo on GitHub Pages**](https://bingochat.onrender.com/login)
 ## 📂 Project Structure
 
 ```
