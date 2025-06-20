@@ -3,7 +3,7 @@
 A modern, full-stack real-time chat application built with **React**, **Vite**, **Tailwind CSS**, **DaisyUI**, **Node.js**, **Express**, **MongoDB**, and **Socket.io**.  
 Seamlessly chat, share images, and connect with friends in a beautiful, themeable interface.
 
-![Screenshot](frontend/ui.png)
+![Screenshot](frontend/BingoChat.png)
 
 ---
 
